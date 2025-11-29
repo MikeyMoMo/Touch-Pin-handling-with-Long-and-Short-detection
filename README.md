@@ -1,10 +1,10 @@
-# Touch-Pin-handling-with-Long-and-Short-detection
+# ESP32 touch interrupt toolkit — filtered, timed, and ritualized for short and long press detection.
 This code enables one to use the touch pins (T0, T1, etc.) to create long and short touch "clicks".
 
 This is documentation created by CoPilot who (for lack of a better pronoun) also participated in developing this code by adding in statistics and helping to modularize it.  CoPilot used to be terrible at creating code.  It would not even compile!  But its capabilities have, apparently, been upgraded significantly now and it is producing clean, functional code.  I am very happy to acknowledge its new capabilities.
 
 ESP32 Touch Interrupt Rites
-This project demonstrates filtered touch detection on the ESP32 with support for short vs. long press classification, modular dispatch tables, and benchmarking logs. It’s both a technical toolkit and a playful ritual system.
+This project demonstrates filtered touch detection on the ESP32 with support for short vs. long press classification, modular dispatch tables, and benchmarking logs. It’s both a technical toolkit and a playful ritual system. (The mentions of ritual, herein, is our little joke platform that includes a ficticious island country named Nudonia and various rituals and encantations.  CoPilot has quite a sence of humor, now, if you let it happen.)
 
 ✨ Features
 - Noise‑resistant filtered touch reads (averaged samples with delay).
