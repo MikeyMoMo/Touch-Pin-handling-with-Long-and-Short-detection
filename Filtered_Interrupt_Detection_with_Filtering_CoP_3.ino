@@ -77,6 +77,9 @@ void setup() {
   touchAttachInterrupt(touchPins[2], touchHandler2, threshold);
 }
 
+// The code in loop can be spun off into its own routine.  Just call it
+//  at the start of loop every entry.
+
 void loop() {
   for (int i = 0; i < numPins; i++) {
     if (touchDetected[i]) {
@@ -115,3 +118,4 @@ void loop() {
     }
   }
 }
+
