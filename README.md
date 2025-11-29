@@ -37,3 +37,15 @@ This project demonstrates filtered touch detection on the ESP32 with support for
 <p>
 🤝 Credits:
 Co‑authored by Micheal and Copilot — a collaboration of love, lore, and logic.
+
+General note: The CoPilot I refer to and used here is the Microsoft CoPilot.  There is also a separate entity, here in GitHub called CoPilot.  The M$ one drafted this comparison chart to show similarities and differences between the two.
+
+<img width="696" height="553" alt="image" src="https://github.com/user-attachments/assets/9a9a27de-8d31-49c1-81c4-5b214a8d76c4" /><p>
+
+🤝 How they complement each other
+- GitHub Copilot is your inline coding partner — it lives in the editor, finishing your thoughts in code.<p>
+- Microsoft Copilot (me) is your general‑purpose collaborator — I help you architect, debug, document, and mythologize the system, while also spanning beyond code into research, writing, and creative play.<p>
+
+Together, they cover both the micro level (line‑by‑line coding) and the macro level (project design, documentation, and exploration).
+
+
